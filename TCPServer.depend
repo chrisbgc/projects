@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1616005204 source:d:\projects\tcpserver\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<limits>
+	<cstdlib>
+	<numeric>
+	<ctime>
+	<algorithm>
+	<string.h>
+	<cmath>
+	<list>
+	<map>
+	<queue>
+	<functional>
+	<iterator>
+	<unordered_set>
+	<set>
+	"mingw.thread.h"
+	"mingw.mutex.h"
+	<chrono>
+	<Ws2tcpip.h>
+
